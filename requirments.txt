@@ -1,0 +1,10 @@
+greenlet==2.0.2
+marshmallow==3.20.1
+marshmallow-dataclass==8.6.0
+mypy-extensions==1.0.0
+packaging==23.1
+playwright==1.38.0
+pyee==9.0.4
+python-a11y-playwright==1.0.1
+typing-extensions==4.8.0
+typing-inspect==0.9.0
